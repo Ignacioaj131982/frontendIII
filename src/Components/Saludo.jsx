@@ -3,7 +3,7 @@ const Saludo = ({ nombre, children }) => {
     return (
         <>
             
-            <h3>{children} {nombre}</h3>
+            <h2>{children} {nombre}</h2>
             
         </>
     );
